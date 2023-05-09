@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FourteenthPractice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contacts">Contacts</string>
+    <string name="json">JSON</string>
+    <string name="xml">XML</string>
+    <string name="phone_number">Phone number</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="my_provider">My provider</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="get">Get</string>
+</resources>

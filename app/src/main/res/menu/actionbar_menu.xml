@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/contactsFragment"
+        android:title="@string/contacts" />
+
+    <item
+        android:id="@+id/myProviderFragment"
+        android:title="@string/my_provider" />
+
+    <item
+        android:id="@+id/jsonFragment"
+        android:title="@string/json" />
+
+    <item
+        android:id="@+id/xmlFragment"
+        android:title="@string/xml" />
+</menu>
